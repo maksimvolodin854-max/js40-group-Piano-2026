@@ -11,23 +11,25 @@ body {
   max-width: 480px;
   margin: 0 auto;
   padding: 16px;
-  background: #fff;
+  background: hwb(203 87% 1%);
   border: 1px solid #ccc;
 }
 
 h1 {
-  font-size: 1.4rem;
+  font-size: 200%;
   margin-top: 0;
 }
 
 .meta {
   color: #666;
   font-size: 0.95rem;
+  padding: 4cap;
+  border-radius: 222cqmax;
 }
 
 button {
   padding: 8px 12px;
-  border: 1px solid #333;
-  background: #ddd;
+  border: 1px solid #000000;
+  background: #87e997;
   cursor: pointer;
 }
